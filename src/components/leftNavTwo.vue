@@ -21,7 +21,7 @@
 								<span class="input-group-addon" id="l-password">密码</span>
 								<input type="text" class="form-control" placeholder="Password" v-model="LoginInfo.Password"  aria-describedby="l-password">
 							</div>
-                            <a href="javascript:;" v-on:click="login()" ><span class="label label-warning">登录</span></a>
+                            <a href="javascript:;" v-on:click="login()" ><span class="label label-warning" style="padding:8px 0">登录</span></a>
                            
 						  </div>
 						</div>
@@ -49,7 +49,7 @@
 								<input type="text" class="form-control" placeholder="Password" v-model="RegisterInfo.Password" aria-describedby="r-password">
 							</div>
                           
-                            <a href="#"><span class="label label-danger">注册</span></a>
+                            <a href="#"><span class="label label-danger" style="padding:8px 0">注册</span></a>
 						  </div>
 						</div>
 					  </div>
