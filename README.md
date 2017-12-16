@@ -1,4 +1,4 @@
-# my_vue_pro02
+# blog_vue
 
 > A Vue.js project
 
