@@ -5,7 +5,7 @@
 ## Build Setup
 
 基于vue做的一个个人网站，用于交流学习
-邮箱：dengleftbtn@163.com，欢迎交流学习
+邮箱：597843496@qq.com，欢迎交流学习
 
 
 ``` bash
