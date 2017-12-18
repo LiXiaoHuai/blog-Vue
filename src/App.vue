@@ -11,6 +11,7 @@
 </template>
 
 <script>
+// 测试
 export default {
   name: 'app'
 }
