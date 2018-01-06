@@ -122,7 +122,7 @@ export default {
 			let data = res.data;
 		
 		   this.blogDetail = data;
-		   this.blogDetail.detail = data.detail.substring(1,data.detail.length-1);
+		//    this.blogDetail.detail = data.detail.substring(1,data.detail.length-1);
 			
 		});
 	   }
